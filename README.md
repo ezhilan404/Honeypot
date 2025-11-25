@@ -45,14 +45,11 @@ Whenever a client connects:
 - Python 3.x
 - (Optional) Virtual environment
 
-If your project uses external Python packages, list them in `requirements.txt` and mention them here.
-
----
 
 ## 🚀 Getting Started
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/ezhilan404/<your-honeypot-repo-name>.git
-cd <your-honeypot-repo-name>
+git clone https://github.com/ezhilan404/Honeypot.git
+cd Honeypot
